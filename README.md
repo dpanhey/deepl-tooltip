@@ -1,0 +1,1 @@
+This is a google chrome extension for easy translation of smaller texts or single words.
