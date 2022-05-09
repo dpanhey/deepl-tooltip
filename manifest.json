@@ -9,7 +9,13 @@
       "16": "images/icon_16.png"
     }
   },
-  "default_locale": "en",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["contextMenus"],
+  "icons": {
+    "16": "images/icon_16.png"
+  },
   "description": "A tool for easy translation of smaller texts or single words.",
   "author": "Dustin Panhey"
 }
