@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "deepl_tooltip",
+  "version": "0.1",
+  "action": {
+    "default_title": "DeepL Tooltip Translation",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon_16.png"
+    }
+  },
+  "default_locale": "en",
+  "description": "A tool for easy translation of smaller texts or single words.",
+  "author": "Dustin Panhey"
+}
